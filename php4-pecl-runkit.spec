@@ -28,9 +28,10 @@ in restricted environment (sandboxing).
 In PECL status of this extension is: %{_status}.
 
 %description -l pl
-Zast±p, zmieñ nazwy lub usuñ zdefiniowane przez u¿ytkownika funkcje i
-klasy. Zdefiniuj zmienne superglobalne do ogólnego u¿ytku. Wykonaj
-dany kod w ograniczonym ¶rodowisku (sandbox).
+Zastêpowanie, zmiana nazwy lub usuwanie zdefiniowanych przez
+u¿ytkownika funkcji i klas. Definiowanie zmiennych superglobalnych do
+ogólnego u¿ytku. Wykonywanie danego kodu w ograniczonym ¶rodowisku
+(sandbox).
 
 To rozszerzenie ma w PECL status: %{_status}.
 
