@@ -7,7 +7,7 @@ Summary:	%{_modname} - mangle with user defined functions and classes
 Summary(pl):	%{_modname} - obróbka zdefiniowanych przez u¿ytkownika funkcji i klas
 Name:		php4-pecl-%{_modname}
 Version:	0.4
-Release:	2
+Release:	3
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
