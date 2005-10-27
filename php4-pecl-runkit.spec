@@ -7,14 +7,14 @@ Summary:	%{_modname} - mangle with user defined functions and classes
 Summary(pl):	%{_modname} - obróbka zdefiniowanych przez u¿ytkownika funkcji i klas
 Name:		php4-pecl-%{_modname}
 Version:	0.4
-Release:	3
+Release:	4
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	05a690f04b7d2c42193f3e0c1bb99a19
 URL:		http://pecl.php.net/package/runkit/
 BuildRequires:	php4-devel >= 3:4.3.0
-BuildRequires:	rpmbuild(macros) >= 1.238
+BuildRequires:	rpmbuild(macros) >= 1.248
 %{?requires_php_extension}
 Requires:	%{_sysconfdir}/conf.d
 Obsoletes:	php-pear-%{_modname}
