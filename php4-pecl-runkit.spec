@@ -4,7 +4,7 @@
 %define		extensionsdir	%{_libdir}/php4
 
 Summary:	%{_modname} - mangle with user defined functions and classes
-Summary(pl.UTF-8):   %{_modname} - obróbka zdefiniowanych przez użytkownika funkcji i klas
+Summary(pl.UTF-8):	%{_modname} - obróbka zdefiniowanych przez użytkownika funkcji i klas
 Name:		php4-pecl-%{_modname}
 Version:	0.9
 Release:	1
